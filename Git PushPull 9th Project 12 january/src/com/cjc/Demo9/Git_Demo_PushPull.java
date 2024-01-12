@@ -16,7 +16,8 @@ public class Git_Demo_PushPull
 	{
 		System.out.println("main Method");	
 		Git_Demo_PushPull g9 = new Git_Demo_PushPull ();
-		g9.ruturaj();
+		g9.ruturaj0();
+		g9.ruturaj1();
 	}
 
 }
